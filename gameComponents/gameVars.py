@@ -1,0 +1,15 @@
+# [] => this is an array
+# variable = [value1, value2, value3]
+# an array is a special tyoe of container that can hold multiple items
+# arrays are indexed (their contents are assigned a number)
+# the index always starts at 0
+choices = ["rock", "paper", "scissors"]
+
+player_lives = 3
+computer_lives = 3
+total_lives = 3
+
+# True or False are Boolean data types
+# essentially, booleans are equivalent to an on or off switch, 1 or 0.
+player_choice = False
+
